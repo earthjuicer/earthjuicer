@@ -1,6 +1,6 @@
 
 
-# HEY,
+# HEY, I AM
 
 ![earthjuicer banner](https://raw.githubusercontent.com/earthjuicer/earthjuicer/main/banner.svg)
 

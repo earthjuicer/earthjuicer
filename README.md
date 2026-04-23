@@ -1,10 +1,7 @@
 
 
-# hey, i'm earthjuicer 🧃
+# HEY,
 
-> *squeezing the planet dry, one commit at a time*
-
----
 ![earthjuicer banner](https://raw.githubusercontent.com/earthjuicer/earthjuicer/main/banner.svg)
 
 ### 🤖 about me

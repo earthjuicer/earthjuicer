@@ -8,11 +8,11 @@
 
 ```python
 me = {
-    "name":       "earthjuicer / Earth榨汁機",
-    "interests":  ["gaming 🎮", "AI 🤖"],
+    "name":       "Md Shahriar Zabid",
+    "interests":  ["gaming 🎮", "AI 🤖", "Observing the economy and global markets","Observing the economy and global markets"],
     "hobbies":    ["NOT coding", "thinking about gaming", "actually gaming"],
-    "hot_take":   "coding is boring. i do it anyway. nobody understands me.",
-    "status":     "probably in a game right now",
+    "hot_take":   "coding is boring. i do it anyway.",
+    "status":     "probably grinding right now",
 }
 ```
 
@@ -20,22 +20,21 @@ me = {
 
 ### ⚡ fun facts
 
-- 🧃 **earthjuicer** = juicing the earth for all it's worth
-- 🎮 i am primarily a gamer who occasionally opens a code editor by accident
+- 🎮 i am primarily a coder who occasionally opens a games by accident
 - 🤖 i find AI fascinating, probably because it might code for me someday
 - 💤 coding is boring — and yet, here we are. together. on my github.
 
 ---
 
-### 🎮 current situation
+###  Current situation
 
 ```
-[ LOADING EARTHJUICER... ]
+[ LOADING SHAHRIAR... ]
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░  90%
 
-ERROR: Distracted by game.
-Resuming when the match ends.
+ERROR: Distracted by codes.
+Resuming when the project ends.
 (it won't end)
 ```
 

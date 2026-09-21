@@ -9,8 +9,9 @@
 ```python
 me = {
     "name":       "Md Shahriar Zabid",
-    "interests":  ["gaming 🎮", "AI 🤖", "Observing the economy and global markets","Observing the economy and global markets"],
-    "hobbies":    ["NOT coding", "thinking about gaming", "actually gaming"],
+    "interests":  ["gaming 🎮", "AI 🤖", "Observing the economy and global markets",
+                  "Observing the economy and global markets"]
+    "hobbies":    ["NOT coding", "thinking about gaming", "actually gaming"]
     "hot_take":   "coding is boring. i do it anyway.",
     "status":     "probably grinding right now",
 }
